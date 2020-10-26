@@ -1,7 +1,3 @@
-
-
-
-
 #GENERADOR DE CODIGO QR CON PyQt5
 
 **Instala la liberia qrcode**
