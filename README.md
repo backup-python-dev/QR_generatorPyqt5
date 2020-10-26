@@ -1,6 +1,6 @@
-*GENERADOR DE CODIGO QR CON PyQt5
+*GENERADOR DE CODIGO QR CON PyQt5*
 
-**Instala la liberia qrcode
+**Instala la liberia qrcode**
 
 **LINUX - pip3 install qrcode**
 
